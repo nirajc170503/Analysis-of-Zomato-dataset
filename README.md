@@ -11,18 +11,32 @@ The dataset is sourced from Zomato, an Indian multinational restaurant aggregato
 
 Questions to Solve:
 
-Import libraries and load the dataset.
-Identify the top restaurant chains in Bengaluru based on distribution.
-Determine the number of restaurants not accepting online orders.
-Calculate the ratio of restaurants providing table booking.
-Use a boxplot to analyze the rating column, extracting data before '/'.
-Determine the percentage of restaurants accepting online orders.
-Plot a scatter plot of Cost vs. Rating with respect to online orders, removing commas from the Cost column.
-Find the distribution of votes and approximate cost using a user-defined function and for loop.
-Identify the most common restaurant types in Bengaluru.
-Analyze the difference in votes between restaurants accepting and not accepting online orders.
-Determine the most common restaurant types in Bengaluru.
-Find the best budget restaurants in any location.
-Identify the top quick bites restaurant chains in Bengaluru.
-Determine the most popular casual dining restaurant chains, using relevant plots.
-Identify the most popular cuisines in Bangalore using related plots.
+1.Import libraries and load the dataset.
+
+2.Identify the top restaurant chains in Bengaluru based on distribution.
+
+3.Determine the number of restaurants not accepting online orders.
+
+4.Calculate the ratio of restaurants providing table booking.
+
+5.Use a boxplot to analyze the rating column, extracting data before '/'.
+
+6.Determine the percentage of restaurants accepting online orders.
+
+7.Plot a scatter plot of Cost vs. Rating with respect to online orders, removing commas from the Cost column.
+
+8.Find the distribution of votes and approximate cost using a user-defined function and for loop.
+
+9.Identify the most common restaurant types in Bengaluru.
+
+10.Analyze the difference in votes between restaurants accepting and not accepting online orders.
+
+11.Determine the most common restaurant types in Bengaluru.
+
+12.Find the best budget restaurants in any location.
+
+13.Identify the top quick bites restaurant chains in Bengaluru.
+
+14.Determine the most popular casual dining restaurant chains, using relevant plots.
+
+15.Identify the most popular cuisines in Bangalore using related plots.
